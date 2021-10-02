@@ -1,5 +1,5 @@
 public class branch2 {
     public static void main(String[] args) {
-        //这是本地的new分支
+        System.out.println("我是newbranch分支的代码");
     }
 }
